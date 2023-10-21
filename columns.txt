@@ -1,0 +1,80 @@
+- Roster98.csv
+    - DISTANCE
+    - **HHCODE**
+    - ELECTRIC
+    - D_BANK
+
+- s1_1.csv
+    - SEX
+    - AAGE_Y
+    - MAR_STAT
+    - F_EDUC (ed level of father)
+    - M_EDUC (ed level of mother)
+
+- S2_A
+    - S2Q5 (if currently studying)
+
+- S2_B.DTA
+    - S2Q17 (distance of school)
+
+- S3_1.DTA (whole thing)
+    - 
+    
+    S3_1Q2 SECTOR/SUB-SECTOR
+    S3_1Q3 STATUS
+    S3_1Q4 NO. OF DAYS WORKED IN OTHER'S FARM
+    S3_1Q5 AVERAGE HOURS WORKED PER DAY
+    S3_1Q6 AVERAGE TOTAL WAGE
+    
+
+- s6_4.dta
+    - S6_41Q4 (average weekly expenditure)
+
+- s9_1.dta
+    - S9_1Q7 (1st reason for not joining program)
+
+- S9_2A.DTA
+    - (read in whole file)
+    
+    S9_2AQ2 Household member who took loan X
+    S9_2AQ3 SourceOF LOAN
+    
+    S9_2AQ4 Month when took loan
+    S9_2AQ5 Year in which took loan
+    S9_2AQ6 Days between application an getting loan
+    S9_2AQ7 Loan amount prayed for
+    S9_2AQ8 Loan amount received
+    S9_2AQ9 Interest rate
+    S9_2AQ10 Labour days required for repayment of interset
+    S9_2AQ11 Value of kind paid for repayment of interset
+    S9_2AQ12 Purpose of loan
+    S9_2AQ13 Purpose for which the loan was taken
+    S9_2AQ14 Loan amount used for the purpose
+    S9_2AQ15 Purpose for which the loan was taken
+    S9_2AQ16 Loan amount used for the purpose
+    S9_2AQ17 Mode of repayment of loan
+    S9_2AQ18 No. of instalments required
+    
+
+- S9_2B.DTA
+    
+    S9_2BQ20 Month of repayment of loan
+    S9_2BQ21 Year of repayment of loan
+    S9_2BQ22 Total amount (principal+interest) to be repaid
+    
+    S9_2BQ23 Total amount (principal+interest) already repaid
+    S9_2BQ24 Month in which the loan was completely repaid
+    S9_2BQ25 Year in which the loan was completely repaid
+    S9_2BQ26 Mode of repayment of loan
+    
+    S9_2BQ27 Source of loan
+    
+
+- S9_4
+    - S9_43A Savings amount (cash)
+    - S_94Q3B value of savings in kind
+    - S9_4Q5 Amount of savings spent in last one year
+
+- S13_2.dta
+    - S13_2Q3 (if pregnant)
+    - S13_2Q5 (ever used family planning method)
